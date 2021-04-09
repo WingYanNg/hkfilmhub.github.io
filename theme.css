@@ -1,4 +1,4 @@
--/*!
+/*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.
@@ -3910,7 +3910,7 @@
     color: #293a6b;
     background-color: #dce2f5;
     border-color: #ced7f1; }
-    -  .alert-secondary hr {
+      .alert-secondary hr {
         border-top-color: #bac7eb; }
       .alert-secondary .alert-link {
         color: #1b2646; }
@@ -3940,7 +3940,7 @@
       .alert-warning hr {
         border-top-color: #ffe8a1; }
       .alert-warning .alert-link {
-        -    color: #533f03; }
+            color: #533f03; }
 
         .alert-danger {
           color: #721c24;
@@ -6455,7 +6455,7 @@
           .pt-sm-3,
           .py-sm-3 {
             padding-top: 1.5rem !important; }
-            -  .pr-sm-3,
+              .pr-sm-3,
   .px-sm-3 {
     padding-right: 1.5rem !important; }
   .pb-sm-3,
